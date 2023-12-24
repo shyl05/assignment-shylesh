@@ -100,6 +100,7 @@ const styles = StyleSheet.create({
     fontStyle: 'normal',
     fontWeight: '600',
     lineHeight: 24,
+    color: 'black',
   },
   spotsText: {
     fontFamily: 'IBMPlexMono-Bold',
